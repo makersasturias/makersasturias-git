@@ -1,0 +1,14 @@
+{
+  "name": "makersasturias-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Santiago Martín Agra <hi@santiagomartin.dev>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev public",
+    "build": "vuepress build public"
+  },
+  "dependencies": {
+    "vuepress": "^1.3.1"
+  }
+}
