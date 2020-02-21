@@ -2,7 +2,15 @@
   "name": "makersasturias-git",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Santiago Martín Agra <hi@santiagomartin.dev>",
+  "author": {
+    "name": "Makers Asturias"
+  },
+  "contributors": [
+    {
+      "email": "hi@santiagomartin.dev",
+      "name": "antiago Martín Agra"
+    }
+  ],
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev public",
