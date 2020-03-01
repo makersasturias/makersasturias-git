@@ -13,3 +13,4 @@
 
 - [Vuepress](https://v1.vuepress.vuejs.org/) que permite renderizar el markdown como HTML.
 - [netlify](https://netlify.com) servicio donde está desplegada la web.
+--Laura
